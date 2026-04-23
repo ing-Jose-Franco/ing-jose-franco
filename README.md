@@ -1,16 +1,21 @@
 <!--Banner-->
 ![ing-jose-franco Banner Image](https://github.com/ing-Jose-Franco/ing-jose-franco/blob/main/assets/banner.png)
 
+
+
+<!--Header Name-->
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9sZThkdmExbWN5cWQ2MXU3N25rMzVnMmhhOWxvZGJvdThqaDV1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="60px"/> Bienvenido a mi Github! 
+
+<!--Languages and Tools Section-->       
+<h3 align="center">Lenguajes y Herramientas</h3> 
 <div>
   <img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lvYWF6M2gwMnFodnVzanlweWc2MXk0YWZyN2JodTVybDM5cGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t1j3KW8BXTzccCLdNb/giphy.gif">
 </div>
-
-<!--Header Name-->
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9sZThkdmExbWN5cWQ2MXU3N25rMzVnMmhhOWxvZGJvdThqaDV1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="60px"/> Bienvenido a mi github! 
-
-<!--Languages and Tools Section-->       
-<h3 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h3> 
 <p align="center">
+  <br />
+  <br />
+  <br />
+  <br />
 <img width="500px"  src="https://skillicons.dev/icons?i=py,html,css,js,git,vscode,cpp,mysql&perline=4"  />
 </p>
 <br />
@@ -45,33 +50,12 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Grafico de Contribuciones 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ing-jose-franco&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
