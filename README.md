@@ -40,7 +40,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ing-jose-franco">
           <img align="center" src="https://streak-stats.demolab.com?user=ing-jose-franco&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
